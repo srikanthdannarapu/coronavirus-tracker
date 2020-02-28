@@ -11,5 +11,5 @@ https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html
 # bootstrap
 https://getbootstrap.com/docs/4.4/getting-started/introduction/
 
-#jumbotron to show totals
+# jumbotron to show totals
 https://getbootstrap.com/docs/4.4/components/jumbotron/
